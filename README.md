@@ -27,6 +27,8 @@ I am building my path toward becoming a **Junior SOC Analyst**, focusing on real
 | **Natas 4** | Referer Spoofing | Shell threw errors due to special characters in the password. | Wrap credentials in single quotes `' '` to prevent shell expansion. |
 
 ---
+### 📂 Detailed Command Logs
+*   [View my step-by-step Bandit Lab Logs](./lab-logs/bandit-logs.md)
 
 ### 🚀 Featured Lab Analysis
 #### **The SSH Identity Pivot (Bandit Level 13)**
